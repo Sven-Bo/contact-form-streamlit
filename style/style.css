@@ -1,4 +1,4 @@
-/* Style inputs with type="text", select elements and textareas */
+/* Style inputs with type="text", type="email"and textareas */
 input[type=text], input[type=email], textarea {
   width: 100%; /* Full width */
   padding: 12px; /* Some padding */ 
